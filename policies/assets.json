@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "MECH48", 
+            "course": "mech48", 
             "name": "IIT_Kanpur-Virtual_Combustion_and_Atomization_Laboratory.jpg", 
-            "org": "IIT-Kanpur", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIT Kanpur-Virtual Combustion and Atomization Laboratory.jpg", 
-        "filename": "asset-v1:IIT-Kanpur+MECH48+Anytime+type@asset+block@IIT_Kanpur-Virtual_Combustion_and_Atomization_Laboratory.jpg", 
+        "filename": "asset-v1:Virtual-Labs+mech48+Anytime+type@asset+block@IIT_Kanpur-Virtual_Combustion_and_Atomization_Laboratory.jpg", 
         "import_path": "IIT Kanpur-Virtual Combustion and Atomization Laboratory.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIT-Kanpur", 
-            "MECH48", 
+            "Virtual-Labs", 
+            "mech48", 
             "thumbnail", 
             "IIT_Kanpur-Virtual_Combustion_and_Atomization_Laboratory.jpg", 
             null
